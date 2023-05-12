@@ -1,5 +1,5 @@
 {
-  "name": "vlsv/sber-api-registry-oauth-client",
+  "name": "eliaskoch/sber-api-registry-oauth-client",
   "description": "Клиент для работы с токенами Sber API Registry",
   "keywords": [
     "rest",
